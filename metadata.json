@@ -1,0 +1,6 @@
+{
+  "name": "Movie Recommendation System",
+  "description": "An interactive, personalized movie recommendation engine implementing Content-Based Cosine Similarity, Collaborative Filtering (Matrix Factorization/SVD), and custom Hybrid blending, powered by MovieLens-aligned datasets and Gemini AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
